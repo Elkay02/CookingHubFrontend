@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/drawable-v24/circle.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/activity_create_recipe.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/activity_login.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/activity_register.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/activity_view_recipe.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/app_bar_layout.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/direction_item_row.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/direction_item_row_non_editable.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/fragment_american.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/fragment_appetizers.xml" value="0.33" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/fragment_cold_plates.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/fragment_desserts.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/fragment_hot_plates.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/fragment_layout_include.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/fragment_recipe_directions.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/fragment_recipe_image.xml" value="0.33" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/fragment_recipe_ingredients.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/fragment_view_directions.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/fragment_view_ingredients.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/ingredient_item_row.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/ingredient_item_row_non_editable.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/layout/recipe_item_row.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/menu/grid_popup_menu.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/menu/main_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/297 project/frontend/app/src/main/res/menu/view_recipe_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
